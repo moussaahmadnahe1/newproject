@@ -78,3 +78,18 @@ a {
     margin-left: 40px;
     margin-top: 30px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    margin: 100px 0;
+    padding: 150px 100px;
+}
+
+#thor {
+    float: right;
+    font-size: 20px;
+    font-weight: 900;
+}
