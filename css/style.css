@@ -52,5 +52,29 @@ a {
 }
 
 .c-imgs {
+    display: flex;
+    padding: 0 100px;
+}
+
+.imgs>p {
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.some {
     text-align: center;
+    margin-top: 30px;
+}
+
+.c-img-1,
+.c-img-2,
+.c-img-3,
+.c-img-4 {
+    border: 3px solid #3882f6;
+    border-radius: 12px;
+    height: 140px;
+    width: 140px;
+    margin-left: 40px;
+    margin-top: 30px;
 }
